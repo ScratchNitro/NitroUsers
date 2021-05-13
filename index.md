@@ -1,3 +1,7 @@
+Notice                                                             |
+------------------------------------------------------------------ |
+This site isn't official, but might become official in the future. |
+
 ## Scratch Nitro users webpage
 A website about the Scratch Nitro users.
 
