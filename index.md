@@ -1,6 +1,6 @@
-Notice                                                             |
+Annoucement                                                        |
 ------------------------------------------------------------------ |
-This site isn't official, but might become official in the future. |
+This site has became official! Reason: Linked on the official site |
 
 ## Scratch Nitro users webpage
 A website about the Scratch Nitro users.
